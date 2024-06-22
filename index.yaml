@@ -1,7 +1,7 @@
 page:
   siteTitle: Felipe Marcelino
   siteName: Marcelino
-  siteUrl: http://127.0.0.1
+  siteUrl: https://felipemarcelino.github.io
   headHtml: |
     <snippet var="js.highlightjs" />
     <snippet var="js.mermaid" />
