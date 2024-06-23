@@ -7,7 +7,7 @@
 - `-p` means package or [[j8ti-nixos-package]]
 - `--run` is to run one time the program
 - Is it possible to created nested environments
-- `--pure` remove most of environments variables
+- `--pure` remove most of the environments variables
 - `-I` indicating which source to use
 ```bash
 $ nix-shell -p cowsay --run "cowsay nix" lolcat
