@@ -13,8 +13,12 @@
 - Try to process [[ave9-fleeting-notes]] and [[ndec-literature-notes]] as fast as possible to because you can lose its
   context before passing it to [[wz0b-permanent-notes]].
 - Only [[wz0b-permanent-notes]] are put in the [[8imv-slip-box]].
--
+- The notes you are taking will give you a [[3j89-feedback-loop]] about how good they are and how good you are exploring a specific
+  topic. If you are writing something that you did not understand correctly the notes will show that you not concise
+  about a specific topic.
 
 ### References
 
 How to take smart notes (Ahrens, 2017, p38-44)
+
+- Ahrens, 2017, p49-51

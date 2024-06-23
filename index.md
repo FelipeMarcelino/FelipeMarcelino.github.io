@@ -7,3 +7,5 @@ This note is only to support *root* entry for alt+z windows for Zettelkasten.
 - [[38lz-zettelkasten]]#
 - [[t58q-nix-language]]#
 - [[vdzq-sequence-abstraction]]#
+- [[7t2m-how-to-take-smart-notes]]#
+- [[3j89-feedback-loop]]#
