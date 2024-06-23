@@ -1,7 +1,8 @@
 # Clojure Seq Functions
 #clojure #programming #functional #language
 
-Clojure Sequence Functions use seq on their arguments and use the [[vdzq-sequence-abstraction]] as you definition.
+Clojure Sequence Functions use seq on their arguments and use the [[vdzq-sequence-abstraction]] as you definition. They
+return a sequence as well.
 
 ## Map
 Is a function that receive a collection of numbers or/and collection of functions

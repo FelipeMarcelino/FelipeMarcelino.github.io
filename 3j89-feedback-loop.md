@@ -8,3 +8,6 @@ Some points are important to address:
   regarding the feedback, so that is why feedback loop is important. Receive feedback, go to activity, then receive
   feedback again.
 - The feedback is about of the things ==someone is doing and about not about him/her/they==.
+
+### References
+- Ahrens, 2017, p49-51
