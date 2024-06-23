@@ -7,7 +7,7 @@ return a sequence as well.
 ## Map
 Is a function that receive a collection of numbers or/and collection of functions
 
-```clojure
+```clj
 	(def identities
 	[{:alias "Batman"	:real "Bruce Wayne"}
 	 {:alias "Spider Man"	:real "Peter Park"}
