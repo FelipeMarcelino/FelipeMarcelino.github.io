@@ -1,5 +1,5 @@
 # Walrus
-#programming #language #python #special:
+#programming #language #python #special
 
 Walrus operator is a special case of #[[ndtq-listcomp]] when you need to store the last element of the list.
 ```python

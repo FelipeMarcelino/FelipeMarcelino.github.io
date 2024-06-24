@@ -16,3 +16,7 @@ aux = [elem for elem in elems]
 There is a special case known as [[z7l7-walrus]] operator.
 
 `listcomp` use more memory than [[0651-genexp]] because last one does not allocate and deal with the element one by one.
+
+> [!tip] [[pcvu-sort-and-sorted]]
+> Both `sort` and `sorted` are made to sort sequences. However, `sort` does is `in-place` while `sorted` produce
+> another object.

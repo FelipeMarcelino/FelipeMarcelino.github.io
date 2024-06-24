@@ -7,3 +7,6 @@
 
 > [!warning]
 > BUG: Tuple with mutable items can be a source of bugs. AVOID!
+
+> [!warning]
+> `sort` return a new object for tuple. Take a look on [[pcvu-sort-and-sorted]].
