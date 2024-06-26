@@ -46,5 +46,6 @@ class FrenchDeck:
 		return self._cards[position]
 ```
 
-Implementing python data model it is possible above is possible to use it in the iteration `for` or [[ndtq-listcomp]]#.
+Implementing python data model it is possible above is possible to use it in the iteration `for` or
+[[aw9b-python-list]]#.
 Avoid [[82os-python-tuples]]# for mutable objects.
