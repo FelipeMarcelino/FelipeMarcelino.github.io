@@ -8,4 +8,4 @@ vanish sometime.
 - Make a workflow with everything you need to know to execute the task.
 - Good solution for tasks are simple
 - It is important to have a structure and system for every task
-- Don't be [[hsyx-dont-be-multitask]], people can only focus on one thing at time.
+- Don't be [[hsyx-dont-be-multitask]]#, people can only focus on one thing at time.

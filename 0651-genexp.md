@@ -1,5 +1,5 @@
 # genexp
-#programming #language #clojure #functional
+#programming #language #python #functional
 
 - Save more memory comparable to [[ndtq-listcomp]]
 - Can be used with tuples, arrays and other sequences

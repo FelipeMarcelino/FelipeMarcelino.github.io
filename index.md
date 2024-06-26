@@ -1,11 +1,18 @@
 # My Zettelkasten
 #root
 
-This note is only to support *root* entry for alt+z windows for Zettelkasten.
+This is my Zettelkasten, you will encounter things related to **programming**, **zettelkasten** itself and **note
+taking** and etc.
 
-- [[5b36-python-data-model]]#
-- [[38lz-zettelkasten]]#
-- [[t58q-nix-language]]#
-- [[vdzq-sequence-abstraction]]#
-- [[7t2m-how-to-take-smart-notes]]#
-- [[3j89-feedback-loop]]#
+## Programming
+
+- [[tds4-python]]
+- [[ic18-nix]]
+- [[b4vt-clojure]]
+
+## Note Taking
+- [[38lz-zettelkasten]]
+- [[7t2m-how-to-take-smart-notes]]
+- [[tn2j-gtd-getting-things-done]]
+
+##
