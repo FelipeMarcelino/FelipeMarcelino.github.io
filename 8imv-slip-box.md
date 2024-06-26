@@ -7,3 +7,5 @@
 - Use [[8yaj-outline]]# to create papers, completed text or ideas your think that you have enough resource to connect
 - Use the method #[[38lz-zettelkasten]] to understand about multiple topics and make any read not wasted of time creating multiple
   notes
+- Slip-Box is the place where we put our mental models, and our connections between our knowledges.
+- Try to think where new notes can be connected in the Slip-Box

@@ -16,9 +16,11 @@
 - The notes you are taking will give you a [[3j89-feedback-loop]] about how good they are and how good you are exploring a specific
   topic. If you are writing something that you did not understand correctly the notes will show that you not concise
   about a specific topic.
+- When writing notes don't be a critic, do this after the notes is already done or during the proofread.
 
 ### References
 
 How to take smart notes (Ahrens, 2017, p38-44)
 
 - Ahrens, 2017, p49-51
+- Ahrens, 2017, p67-69
