@@ -10,7 +10,6 @@ This is my Zettelkasten, you will encounter things related to **programming**, *
 
 ## Note-Taking
 - [[38lz-zettelkasten]]#
-- [[7t2m-how-to-take-smart-notes]]#
 - [[tn2j-gtd-getting-things-done]]#
 
 ## Linux

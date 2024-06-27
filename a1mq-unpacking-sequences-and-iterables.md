@@ -1,7 +1,7 @@
 # Unpacking Sequences and Iterables
 #python #programming #datastrcture #language
 
-- Works with any iterable: [[aw9b-python-list]], [[x4fp-dictcomp]], [[82os-python-tuples]]
+- Works with any iterable: #[[aw9b-python-list]], #[[9n4u-python-dictionary]], #[[82os-python-tuples]]
 - Parallel assignment
 
 ```python

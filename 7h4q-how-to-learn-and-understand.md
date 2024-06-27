@@ -1,7 +1,7 @@
 # How to learn and understand
 #notes #writing #learn #system #organization #method
 
-- Familiarity is as same of understand.
+- Familiarity is not the same of understand.
 - If we did not understand we cannot explain something with our words
 - Try to search for patterns, detect the distinction and similarities between the concepts and questions
 - Reformulate questions and piece of information is more important than to have extensively knowledge base.

@@ -1,4 +1,5 @@
 # Python Dictionary
 #python #datastructure #language #programming
 
-- [[x4fp-dictcomp]]#
+- Dictionaries Comprehesion: [[x4fp-dictcomp]]#
+- Unpacking dictionaries: [[a1mq-unpacking-sequences-and-iterables]]

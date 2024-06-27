@@ -13,3 +13,5 @@ Clojure deals with Sequence using `Indirection` or in other words `Polymorphism`
 - List of Vectors (**into** - it is a function) → Map
 
 Seq operations return sequence as well.
+
+- [[lia6-destructuring-in-clojure]]

@@ -6,9 +6,9 @@ Zettelkasten is a tool to create and writing personal thoughts on notes and conn
 - Use napkins, papers, voice recording etc. to record your [[ave9-fleeting-notes]]#. It is good idea always have a pen
   and scratchpad with you.
 - Zotero is a good tool to be the reference management system.
-- Use [[8imv-slip-box]]# to store the [[wz0b-permanent-notes]]#
+- Use [[8imv-slip-box]]# to store the [[wz0b-permanent-notes]]
 - [[ndec-literature-notes]]# need to have at least author and year. But can have page as well.
-- There is a method on [[7t2m-how-to-take-smart-notes]]
+- [[5quz-why-do-we-take-notes]]# is because we want to learn [[7h4q-how-to-learn-and-understand]]
 
 ### References
 
