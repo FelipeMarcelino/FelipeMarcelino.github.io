@@ -11,6 +11,12 @@
 - The only impurities on the language are the [[hc70-build-inputs]]#, that are composed of file system.
 - Nix reference files using the content hash. If It does not know its content, it read the file during the evaluation of
   the derivations
+- [eaf9g-nix-let-in]]# are expression on on language that access variable inside itself, or a way to assign variable recursively
+- There is something similar to [[af9g-nix-let-in]]# is the [[z8de-attribute-set]]# with rec propriety. The variable can
+  be used in the same scope it was defined.
+- Nix language can use variables on the code using [[6b5l-string-interpolation]]#. It is possible to escape them to no
+  make confuse with bash variables.
+- [[17dv-inherit]]# is a way to assign variable on a nested scope.
 
 
 ```nix

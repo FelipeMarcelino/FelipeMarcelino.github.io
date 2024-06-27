@@ -2,7 +2,8 @@
 # Inherit
 #nix #nixos #programming #language
 
-It is a way to assign a variable inside a scope that is nested inside another scope using the same name
+- It is a way to assign a variable inside a scope that is nested inside another scope using the same name
+- They use expressions [[af9g-nix-let-in]] to assign variables before.
 
 
 ```nix

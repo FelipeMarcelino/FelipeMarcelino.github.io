@@ -47,5 +47,8 @@ class FrenchDeck:
 ```
 
 Implementing python data model it is possible above is possible to use it in the iteration `for` or
-[[aw9b-python-list]]#.
-Avoid [[82os-python-tuples]]# for mutable objects.
+[[aw9b-python-list]].
+Avoid [[82os-python-tuples]] for mutable objects.
+
+### References
+Ramanlho, 2022, Chapter 1

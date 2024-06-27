@@ -10,3 +10,6 @@
 
 > [!warning]
 > `sort` return a new object for tuple. Take a look on [[pcvu-sort-and-sorted]].
+
+### References
+Ramalho, 2022, Chapter 1

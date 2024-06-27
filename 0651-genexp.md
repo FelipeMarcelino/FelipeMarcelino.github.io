@@ -2,8 +2,8 @@
 #programming #language #python #functional
 
 - Save more memory comparable to [[ndtq-listcomp]]
-- Can be used with tuples, arrays and other sequences
-- Save the cost to build a list
+- Can be used with [[82os-python-tuples]], arrays and other sequences
+- Save the cost to build a [[aw9b-python-list]]
 
 ```python
 >>> symbols

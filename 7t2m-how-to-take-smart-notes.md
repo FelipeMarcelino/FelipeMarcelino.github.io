@@ -17,6 +17,9 @@
   topic. If you are writing something that you did not understand correctly the notes will show that you not concise
   about a specific topic.
 - When writing notes don't be a critic, do this after the notes is already done or during the proofread.
+- [[5quz-why-do-we-take-notes]]#
+- Handwriting notes is better to learning because they need to be more assertive because we write slow
+  [[mjpl-handwriting-with-our-words]]#.
 
 ### References
 

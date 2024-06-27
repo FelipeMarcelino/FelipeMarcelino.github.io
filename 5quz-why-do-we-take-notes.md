@@ -6,3 +6,4 @@
   [[3j89-feedback-loop]] showing if your notes are good or not.
 - Rely on the system you are used to writing you notes. Focusing on the ideas
 - There is a correct way to write [[zkr2-question-about-a-topic]].
+- We take notes to learn things [[7h4q-how-to-learn-and-understand]]#

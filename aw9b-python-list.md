@@ -3,3 +3,4 @@
 
 - [[ndtq-listcomp]]#
 - [[j7wj-when-list-is-not-the-best-option-python]]#
+- [[nfgb-slicing]]
