@@ -6,7 +6,6 @@
 - Try to think how permanent notes related to other notes as well, is the phase that we create connection.
 - Combine them, generate, create questions through permanent notes. And of course, answer questions using permanent
   notes
-- Try to think how the information can help and build your ideas
-- Use this kind of notes to write questions about a specific topic: [[zkr2-question-about-a-topic]]#. With multiple
+- Use this kind of notes to write questions about a specific topic: [[zkr2-question-about-a-topic]]. With multiple
   permanent notes you can write and answer questions about a specific subject, with further knowledge about it. It is
   impossible to create a good question without research and write about something.
