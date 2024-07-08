@@ -1,5 +1,5 @@
 # Python Data Model
-#programming #language #python #datastructure
+#programming #language #python #datastructure #datamodel
 
 Data model is a description or interface for Python as framework.
 It makes you code easy to interpret and being supported by common functions/methods in python

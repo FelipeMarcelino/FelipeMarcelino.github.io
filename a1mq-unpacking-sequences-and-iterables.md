@@ -1,5 +1,5 @@
-# Unpacking Sequences and Iterables
-#python #programming #datastrcture #language
+# Unpacking Sequences and Iterable
+#python #programming #datastructure #language
 
 - Works with any iterable: #[[aw9b-python-list]], #[[9n4u-python-dictionary]], #[[82os-python-tuples]]
 - Parallel assignment

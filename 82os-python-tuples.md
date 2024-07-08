@@ -4,6 +4,9 @@
 * Tuples: Records if the same information on the same position
 * Can be used as immutable list if its size does not change
 	* Use less memory
+* They are two subclasses of `tuples` used to store records/hold data. They are
+	* [[01o9-collections-namedtuple]]#
+	* [[07fk-typing-namedtuple]]#
 
 > [!warning]
 > BUG: Tuple with mutable items can be a source of bugs. AVOID!
