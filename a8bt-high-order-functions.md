@@ -22,7 +22,6 @@
 
 - [[ey8t-lambda-function]]#
 - [[4fmy-packages-for-functional-programming-in-python]]#
--
 ## Partial
 
 - Receives one `callable` and `arguments` with predetermined values

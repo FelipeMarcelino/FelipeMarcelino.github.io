@@ -1,7 +1,7 @@
 # Keyword Only Arguments
 #python #programming #functions #howtodo
 
-- * and ** [[a1mq-unpacking-sequences-and-iterables]]
+- `*` and `**` [[a1mq-unpacking-sequences-and-iterables]]
 
 ```python
 def tag(name, *content, class_=None, **attrs):

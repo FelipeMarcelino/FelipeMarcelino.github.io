@@ -3,7 +3,7 @@
 
 - `Sort` and `sorted` in python are to organize elements in a specific order
 - They have two `keywords`: `key` and `reverse`
-   * key: receive a function with one argument to be pass the element to be compared to other
+   * key: receive a function with one argument to be pass the element to be compared to other: [[a8bt-high-order-functions]]
    * reverse: if the order is reversed
 - `Sort` does not return a new object while but `sorted` returns, so the former is `in-place`, in that way less memory
   is used.
