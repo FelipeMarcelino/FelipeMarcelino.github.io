@@ -6,4 +6,4 @@
 - How is: `var_name: some_type` (PEP 484)
 
 ### References
-Ramalho, 2022, p172-179
+- Ramalho, 2022, p172-179

@@ -11,3 +11,11 @@
 - [[6vep-comprehension]]#
 - [[f6xw-storage-classes]]#
 - [[8sjh-type-hint]]#
+- [[k9ox-difference-between-is-and]]#
+- [[1zto-shallow-and-deep-copy]]#
+- [[nfgb-slicing]]#
+- [[adag-call-by-sharing]]#
+- [[iexf-del]]#
+- [[a8bt-high-order-functions]]#
+- [[dcdy-callable-objects]]#
+- [[135k-keyword-only-arguments]]
