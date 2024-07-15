@@ -8,3 +8,4 @@
 - Objects [[nxj2-hashable]]#
 - [[7c5x-self-_-_init-_-_-and-hash-tables]]#
 - [[f6i7-variations-of-dictionary]]#
+- How to type dictionaries: [[0c3b-typing-maps]]#

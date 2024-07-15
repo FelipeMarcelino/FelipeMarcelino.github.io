@@ -9,6 +9,7 @@
 	- user defined functions with `def` and [[ey8t-lambda-function]]
 - They are all called with `()`
 - How to know if object is callable: `callable()`
+- How to type callable objects: [[80tb-typing-callable]]#
 
 ```python
 import random

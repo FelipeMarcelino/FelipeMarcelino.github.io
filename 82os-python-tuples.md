@@ -9,6 +9,7 @@
 	* [[01o9-collections-namedtuple]]#
 	* [[07fk-typing-namedtuple]]#
 
+- How to type tuples: [[o4v3-typing-tuple]]#
 > [!warning]
 > BUG: Tuple with mutable items can be a source of bugs. AVOID!
 
