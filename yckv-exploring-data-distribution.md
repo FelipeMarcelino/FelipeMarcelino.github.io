@@ -29,3 +29,28 @@
 - Y scale is different, but a proportion
 - The area below the curve sum to 1
 - You can calculate the area between two points to know the proportion
+
+## Exploring Binary and Categorical
+
+- Binary, proportion of 0 and 1
+- Categorical, proportion of categorical variables
+- You could use Bar charts, a little bit different from histograms where x-axis represents a category and y-axis is the
+  count
+- [[r0sy-central-tendendcy]]: Mode can be used to count the most common values
+- Transform categorical variables into discretized ones
+	- Expected Value: Discretized Values * Probability
+
+## Exploring two or more Variables
+
+- Scatter plots are good for small values
+- Hexagonal binning for millions of rows
+- Two categorical variables: Contingency Table
+	- Divided category and proportion
+- Categorical and numerical
+	- Multiple Boxplots
+	- Multiple Violin plots
+		- Show the distribution as well
+
+### References
+- Bruce, 2017, p19-30
+- Bruce, 2017, p36-45

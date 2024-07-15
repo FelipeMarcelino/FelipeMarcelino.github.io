@@ -5,3 +5,6 @@
 - The formula above has $\frac{1}{n-1}$ which means degrees of freedom.
 - Degrees of freedom given a **unbiased** estimative of the variance and standard deviation
 	- standard deviation: $sd = \sqrt{variance}$
+
+### References
+- Bruce, 2017, p215

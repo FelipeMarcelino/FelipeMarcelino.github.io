@@ -24,3 +24,6 @@
 - Median: percentile 50th
 - Quantile 0.8 = 80 percentile
 - Variability: difference between 25th and 75 percentile (Interquartile Range - IQR)
+
+### References
+- Bruce, 2017, p13-19
