@@ -1,5 +1,5 @@
 # Degrees of Freedom
-#statistic #math #theory #bias
+#statistics #math #theory #bias
 
 - Variance formula: $s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \overline{x})^2$
 - The formula above has $\frac{1}{n-1}$ which means degrees of freedom.

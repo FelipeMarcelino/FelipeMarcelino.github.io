@@ -19,3 +19,4 @@
 - [[a8bt-high-order-functions]]#
 - [[dcdy-callable-objects]]#
 - [[135k-keyword-only-arguments]]#
+- [[7hky-python-variable-scope]]#

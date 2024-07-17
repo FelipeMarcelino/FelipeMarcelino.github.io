@@ -1,5 +1,5 @@
 # Dispersion
-#centraltendency #math #statistic #estimative #theory
+#centraltendency #math #statistics #estimative #theory
 
 - It is the **second** dimension
 - How the data is dispersed, it is more clustered or spread out

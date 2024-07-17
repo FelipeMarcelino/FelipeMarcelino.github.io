@@ -10,6 +10,7 @@
 - They are all called with `()`
 - How to know if object is callable: `callable()`
 - How to type callable objects: [[80tb-typing-callable]]#
+- [[cea0-decorators]]# is a type of callable object
 
 ```python
 import random
