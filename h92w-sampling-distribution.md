@@ -1,5 +1,5 @@
 # Sampling Distribution
-#theory #math #statistics #distribution #sampling #normaldistribution
+#theory #math #statistics #distributions #sampling #normaldistribution
 
 - It is the distribution of sample statistic like mean for example
 	- Sample 5 numbers from data and calculate the mean is an example of sample statistic

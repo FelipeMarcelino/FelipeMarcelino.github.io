@@ -1,5 +1,5 @@
 # Bootstrap
-#statistic #method #sampling #math #efficient #noassumption
+#statistics #method #sampling #math #efficient #noassumption
 
 - Used to calculate the [[h92w-sampling-distribution]]
 

@@ -9,4 +9,5 @@
 - [[tl6n-correlation]]#
 - [[cj29-random-sampling-and-random-bias]]#
 - [[h92w-sampling-distribution]]#
-- [[lh9b-central-limit-theorem]]
+- [[lh9b-central-limit-theorem]]#
+- [[oqq2-statistics-distributions]]#
