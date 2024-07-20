@@ -1,4 +1,4 @@
-# Python Decorator Implementation
+# Python Decorator Clock Implementation
 #decorator #designpattern #apply #python #programming
 
 ```python

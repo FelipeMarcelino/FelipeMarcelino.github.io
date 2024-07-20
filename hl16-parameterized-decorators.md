@@ -1,5 +1,5 @@
 # Parameterized Decorators
-#python #decorator #designpattern #programming
+#python #decorator #designpattern #programming #apply
 
 - To create a decorator with parameters is necessary to build a **decorator factory**
 	- This decorator factory will accept parameter and pass to the decorator itself

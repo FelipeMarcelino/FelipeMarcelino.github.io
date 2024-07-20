@@ -1,5 +1,5 @@
 # cache, lru-cache, singledispatch
-#python #efficiency #decorator #designpattern #programming
+#python #efficiency #decorator #designpattern #programming #overriding
 
 ## Cache
 
@@ -40,5 +40,4 @@ if __name__ == '__main__':
 - [[rugi-singledispatch-implementation]]#
 
 ### Reference
-
 - Ramalho, 2022, p320-329

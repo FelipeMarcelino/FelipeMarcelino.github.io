@@ -1,4 +1,4 @@
-# Python Decorator Implementation with Parameters
+# Python Decorator Clock Implementation with Parameters
 #designpattern #python #decorator
 
 ```python

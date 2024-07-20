@@ -20,3 +20,4 @@
 - [[dcdy-callable-objects]]#
 - [[135k-keyword-only-arguments]]#
 - [[7hky-python-variable-scope]]#
+- [[zewz-design-patterns]]#
