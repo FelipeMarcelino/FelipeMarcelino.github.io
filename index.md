@@ -1,11 +1,6 @@
-# My Zettelkasten
+# Felipe Marcelino
 #root
 
-This is my Zettelkasten, you will encounter things related to **programming**, **productivity**, **linux** and other
-**subjects**
 
-#### [[lpto-programming]]#
-#### [[p78u-productivity]]#
-#### [[z7jj-statistics]]#
-#### [[0v0d-linux]]#
-#### [[krx4-misc]]#
+- [[soo4-curriculum-vitae]]# (Curriculum Vitae)
+- [[jn9c-my-zettelkasten]]# (My Personal Knowledge System)

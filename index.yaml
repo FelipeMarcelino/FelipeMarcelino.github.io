@@ -10,7 +10,7 @@ template:
   uptree:
     enable: true
   sidebar:
-    enable: true
+    enable: false
     collapsed: true
   breadcrumbs:
     enable: false
