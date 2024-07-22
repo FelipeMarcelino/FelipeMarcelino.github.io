@@ -1,6 +1,6 @@
 # Felipe G. G. Marcelino - Data Scientist
 
-!(Download)[Curriculum_Vitae.pdf]
+[[Curriculum_Vitae.pdf|Download Curriculum Here]]
 
 ## Summary
 Data Scientist for more than 6 years of experience with expertise in research from academy, machine learning,
