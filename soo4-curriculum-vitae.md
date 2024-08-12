@@ -3,16 +3,14 @@
 [[Curriculum_Vitae.pdf|Download Curriculum Here]]
 
 ## Summary
-Data Scientist for more than 6 years of experience with expertise in research from academy, machine learning,
-modelling, big data, data analysis and software engineering. Able to effectively communicate with team and
-stakeholders and transform business problem into AI solution using data drive solutions and insights with
-visualizations and storytelling. I have worked with finance (fraud detection), industry 4.0 (prediction of steal
-quality), healthcare (detection of glaucoma using computer vision), resource allocation (using reinforcement
-learning), retail industry (demand prediction to avoid out-of-tock, regression for better price/total selling) and
-energy industry (price optimization with reinforcement learning). Proficient in Python (with pandas) and Scala (with
-spark) using high skills from software engineering. For software skills, I can adapter fast on different
-environments, communicate clearly and easy to work with small and big teams. I have a master degree in artificial
-intelligence and graduated in computer science.
+Data Scientist with over 6 years of experience, specializing in machine learning, statistical modeling, big data, data
+analysis, and soware engineering. Proven ability to communicate effectively with teams and stakeholders,
+transforming business problems into AI solutions using data-driven insights and visualizations. Extensive experience
+in finance (fraud detection), industry 4.0 (steel quality prediction), healthcare (glaucoma detection via computer
+vision), resource allocation (reinforcement learning), retail (demand prediction and pricing), and energy (price
+optimization). Proficient in Python and Scala, with strong soware engineering skills. Adaptable to different
+environments, excellent communicator, and team player. Holds a Master's degree in Artificial Intelligence and a
+Bachelor's degree in Computer Science.
 
 
 :::{class="grid grid-flow-row grid-cols-1 gap-0 p-3 lg:grid-cols-2"}

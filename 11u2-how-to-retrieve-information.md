@@ -1,5 +1,5 @@
 # How To Retrieve Information
-#zettelkasten #connection #method #howto #organization #notes
+#zettelkasten #connection #method #howtodo #organization #notes
 
 - Codify the information you want to maintain including clues to it
 - Practice to remember

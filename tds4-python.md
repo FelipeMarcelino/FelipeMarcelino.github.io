@@ -21,3 +21,7 @@
 - [[135k-keyword-only-arguments]]#
 - [[7hky-python-variable-scope]]#
 - [[zewz-design-patterns]]#
+- [[6ex4-classmethod]]#
+- [[kcch-complete-data-model]]#
+- [[a2f3-private-and-protected-in-python]]
+- [[r3xz-slot__-in-python]]

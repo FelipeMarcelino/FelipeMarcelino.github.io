@@ -40,5 +40,7 @@ def match_asian_countries_pos():
     return results
 ```
 
+- [[toej-supporting-positional-pattern-matching-with-classes]]#
+
 ### References
 Ramalho, 2022, p190-196

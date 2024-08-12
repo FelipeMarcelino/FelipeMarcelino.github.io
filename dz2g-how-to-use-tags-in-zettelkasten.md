@@ -1,5 +1,5 @@
 # How to use tags in Zettelkasten
-#zettelkaten #howto #method #notes
+#zettelkaten #howtodo #method #notes
 
 - The tags need to be made in a way that is connected to your question/topic of interested
 - You have to think in which situation you would like to retrieve the current note, that is the **objective** of the tags
