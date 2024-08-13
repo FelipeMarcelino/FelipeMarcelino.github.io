@@ -37,7 +37,7 @@
               }
             ];
             # port = 8080;
-            baseUrl = "https://felipemarcelino.github.io/"; # Change to "/" (or remove it entirely) if using CNAME
+            baseUrl = "/emanote-template/"; # Change to "/" (or remove it entirely) if using CNAME
             # prettyUrls = true;
           };
         };
