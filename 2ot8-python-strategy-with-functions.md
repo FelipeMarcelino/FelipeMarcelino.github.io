@@ -1,7 +1,7 @@
 # Python Strategy with Functions
 #designpattern #datastructure #class #apply #python #programming
 
-- A more concise code compared to the #[[python-strategy]] using [[a8bt-high-order-functions]]
+- A more concise code compared to the #[[otjt-python-strategy]] using [[a8bt-high-order-functions]]
 
 ```python
 from collections.abc import Sequence
