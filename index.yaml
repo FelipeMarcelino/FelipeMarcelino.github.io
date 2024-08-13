@@ -19,6 +19,7 @@ template:
   theme: red
   #iconUrl: static/favicon.jpeg
   urlStrategy: pretty
+  editBaseUrl: https://github.com/srid/emanote-template/edit/master
 pandoc:
   rewriteClass:
     prose: max-w-prose mx-auto

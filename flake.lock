@@ -154,7 +154,7 @@
         "commonmark-simple": "commonmark-simple",
         "commonmark-wikilink": "commonmark-wikilink",
         "ema": "ema",
-        "emanote-template": "emanote-template_2",
+        "emanote-template": [],
         "flake-parts": "flake-parts_2",
         "flake-root": "flake-root_2",
         "haskell-flake": "haskell-flake_2",
@@ -166,17 +166,16 @@
         "unionmount": "unionmount_2"
       },
       "locked": {
-        "lastModified": 1719828900,
-        "narHash": "sha256-t4Bp56TAZwOwAS6ezev+wE3qtcpBCOkHVNnpbaG47JE=",
+        "lastModified": 1719887178,
+        "narHash": "sha256-GAxmOxH0NnzgIjtcY5OvLguXlQuh2Hs82pQ8WLBai04=",
         "owner": "srid",
         "repo": "emanote",
-        "rev": "32666807bc2966c796eb95364716dfb08c50cefe",
+        "rev": "e20dbc918df86436ad1e97c79b74337b3625798f",
         "type": "github"
       },
       "original": {
         "owner": "srid",
         "repo": "emanote",
-        "rev": "32666807bc2966c796eb95364716dfb08c50cefe",
         "type": "github"
       }
     },
@@ -188,22 +187,6 @@
         "owner": "srid",
         "repo": "emanote-template",
         "rev": "9d458b63c80162519ae55814e60f17cc9d3f95a3",
-        "type": "github"
-      },
-      "original": {
-        "owner": "srid",
-        "repo": "emanote-template",
-        "type": "github"
-      }
-    },
-    "emanote-template_2": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1720320666,
-        "narHash": "sha256-Q6jBdnWi/K6Zlv8igHy8DFi0gHE6/aNWABChvBzqVJk=",
-        "owner": "srid",
-        "repo": "emanote-template",
-        "rev": "4441176de6094af603e75dfffb2ecc56cb2f33b9",
         "type": "github"
       },
       "original": {
@@ -454,26 +437,17 @@
         "type": "github"
       }
     },
-    "nixpkgs_3": {
-      "locked": {
-        "lastModified": 1672755833,
-        "narHash": "sha256-AmPzlvY1Y5codnytZCDn2wlhVa8rDHNib5wBWtcD7c4=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "3665c429d349fbda46b0651e554cca8434452748",
-        "type": "github"
-      },
-      "original": {
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "3665c429d349fbda46b0651e554cca8434452748",
-        "type": "github"
-      }
-    },
     "root": {
       "inputs": {
         "emanote": "emanote",
-        "nixpkgs": "nixpkgs_3"
+        "flake-parts": [
+          "emanote",
+          "flake-parts"
+        ],
+        "nixpkgs": [
+          "emanote",
+          "nixpkgs"
+        ]
       }
     },
     "systems": {
