@@ -11,7 +11,7 @@
 - [[loet-how-to-apply-gtd-getting-things-done]]#
 	- [[htc4-hagai-bar-el-methodology-of-gtd]]#
 - [[4e6i-how-to-use-different-tools-to-note-task]]#
-- How to apply GTD using Taskwarrior
+- [[0ibt-how-to-apply-gtd-using-taskwarrior]]
 
 ### References
 - Ahrens, 2017, p67-69
