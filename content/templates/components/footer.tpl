@@ -46,7 +46,8 @@
 </footer>
 <footer class="flex m-3 items-center justify-center text-xs">
  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-    <a property="dct:title" rel="cc:attributionURL" href="https://blog.hemera.systems">Hemera Systems Blog</a>
+    <!-- FIXME -->
+    <a property="dct:title" rel="cc:attributionURL" href="https://blog.hemera.systems">Felipe Marcelino Blog</a>
     by
     <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://blog.hemera.systems">Marcel Müller</a>
     is licensed under

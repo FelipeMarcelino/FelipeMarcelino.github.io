@@ -9,5 +9,5 @@
 </div>
 <hr class="m-2">
 <div class="flex items-center">
-  <img src="/hemera_laptop.jpg" width="1500" height="500" alt="Hemera sitting in front of a laptop with a NixOS logo on it.">
+  <img src="/eu.jpg" width="1500" height="500" alt="Eu com algumas figuras que representa análise de dados/ciência">
 </div>
