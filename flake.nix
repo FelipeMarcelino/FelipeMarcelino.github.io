@@ -40,7 +40,7 @@
                 }
               ];
               # port = 8080;
-              #baseUrl = "/emanote-template/"; # Change to "/" (or remove it entirely) if using CNAME
+              baseUrl = "/";
               allowBrokenLinks = true;
               prettyUrls = true;
             };
