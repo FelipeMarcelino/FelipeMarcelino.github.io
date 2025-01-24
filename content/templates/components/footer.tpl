@@ -47,9 +47,10 @@
 <footer class="flex m-3 items-center justify-center text-xs">
  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
     <!-- FIXME -->
-    <a property="dct:title" rel="cc:attributionURL" href="https://blog.hemera.systems">Felipe Marcelino Blog</a>
+    <a property="dct:title" rel="cc:attributionURL" href="https://felipemarcelino.github.io/">Marcelino Zettelkasten</a>
     by
-    <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://blog.hemera.systems">Marcel Müller</a>
+    <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+    href="https://felipemarcelino.github.io/">Felipe Marcelino</a>
     is licensed under
     <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
         Attribution-ShareAlike 4.0 International
