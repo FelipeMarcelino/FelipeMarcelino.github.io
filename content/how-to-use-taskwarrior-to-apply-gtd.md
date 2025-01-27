@@ -18,5 +18,5 @@
 
 ### Sources
 
-- [[content/blog/2025-01-25]]
-- [[content/blog/2025-01-26]]
+- [[content/blog/2025-01-25.md]]
+- [[content/blog/2025-01-26.md]]
