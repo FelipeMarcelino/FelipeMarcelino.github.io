@@ -39,7 +39,7 @@
                   pathString = "./content";
                 }
               ];
-              port = 8080;
+              port = 9000;
               baseUrl = "/";
               allowBrokenLinks = true;
               prettyUrls = true;
