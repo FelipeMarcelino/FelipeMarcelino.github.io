@@ -3,7 +3,7 @@
 - Data models in python is a way to create pythonic code using special methods
 - Special methods are methods called by the interpreter and not the coder itself
 - ```__len__```, ```__getitem__``` and ```__setitem__``` are types of special methods
-- [```__getitem__``` special method](```__getitem__``` special method) is related to index and iterator
+- [[```__getitem__``` special method]]# is related to index and iterator
 - The following code is example of implementation of special method
 
 ```python
