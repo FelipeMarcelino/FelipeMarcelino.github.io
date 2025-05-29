@@ -1,4 +1,0 @@
-# Subjects Index
-
-- [[Productivity]]#
-- [[Python]]#
