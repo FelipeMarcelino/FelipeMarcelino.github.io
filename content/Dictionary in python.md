@@ -61,6 +61,7 @@ for word in sorted(index, key=str.upper):
     print(word, index[word])
 ```
 
+[[]]
 ## Special methods
 - `__missing__`, `__eq__` and `__hash__` are methods important to be implemented when inherent
   `UserDict` or `dict`
