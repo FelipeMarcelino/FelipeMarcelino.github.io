@@ -1,4 +1,5 @@
 # Comprehension and generator expressions in python
+#performance #code #python
 
 - List comprehension is a way to create list using the following syntax:
     - ```codes = [ord(x) for x in x]```
@@ -9,8 +10,7 @@
 
 ## Comprehension for dictionaries
 
-
-```
+```python
 >>> country_dial = {country: code for code, country in dial_codes}
 >>> country_dial
 {'Bangladesh': 880, 'Brazil': 55, 'China': 86, 'India': 91, 'Indonesia': 62,
