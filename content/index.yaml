@@ -2,13 +2,13 @@ page:
   siteTitle: Felipe Marcelino
   siteName: Marcelino
   siteUrl: https://felipemarcelino.github.io
-template:
-  theme: blue
   headHtml: |
     <snippet var="js.mathjax" />
     <snippet var="js.prism" />
     <snippet var="js.mermaid" />
     <snippet var="js.highlightjs" />
+template:
+  theme: blue
   uptree:
     enable: true
   sidebar:
