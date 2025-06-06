@@ -1,4 +1,5 @@
 # Pattern Matching in Python
+#python #code #datastructure
 
 - Pattern matching in python uses `case` and `match`
 - Both `dictionaries`,`tuples` and `sequences` can be used inside match procedures.

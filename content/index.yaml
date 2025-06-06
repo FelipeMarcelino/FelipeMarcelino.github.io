@@ -4,7 +4,6 @@ page:
   siteUrl: https://felipemarcelino.github.io
   headHtml: |
     <snippet var="js.mathjax" />
-    <snippet var="js.prism" />
     <snippet var="js.mermaid" />
     <snippet var="js.highlightjs" />
 template:

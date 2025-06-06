@@ -1,4 +1,5 @@
 # Data models in python
+#python #code
 
 - Data models in python is a way to create pythonic code using special methods
 - Special methods are methods called by the interpreter and not the coder itself

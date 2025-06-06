@@ -1,4 +1,5 @@
 # Tuple: records and immutable list
+#python #code #datastructure
 
 - List can be approach with two different ways
     - as list with fixed size. Tuple uses less memory than mutable list
