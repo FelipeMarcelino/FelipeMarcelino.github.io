@@ -84,3 +84,56 @@ def evaluate(exp: Expression, env: Environment) -> Any:
             raise SyntaxError(lispstr(exp))
 ```
 - In the case above `Symbol` is a class implemented by the user and we can use to match it on the pattern matching
+
+## Simple classes
+```python
+    match x:
+        case float():
+            do_something_with(x)
+
+    match x:
+        case float:  # DANGER!!!
+            do_something_with(x)
+```
+
+## Named classes
+
+- Using `typing.NamedTuple` we can use class to match types
+```python
+import typing
+
+class City(typing.NamedTuple):
+    continent: str
+    name: str
+    country: str
+
+cities = [
+    City('Asia', 'Tokyo', 'JP'),
+    City('Asia', 'Delhi', 'IN'),
+    City('North America', 'Mexico City', 'MX'),
+    City('North America', 'New York', 'US'),
+    City('South America', 'São Paulo', 'BR'),
+]
+
+def match_asian_countries():
+    results = []
+    for city in cities:
+        match city:
+            case City(continent='Asia', country=cc):
+                results.append(cc)
+    return results
+```
+
+## Positional classes
+
+- Using `typing.NamedTuple` we can use class to match types with positional argument
+
+```python
+def match_asian_countries_pos():
+    results = []
+    for city in cities:
+        match city:
+            case City('Asia', _, country):
+                results.append(country)
+    return results
+```
