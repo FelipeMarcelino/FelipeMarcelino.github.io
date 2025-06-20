@@ -51,7 +51,7 @@ def name_index(start: int = 32, end: int = STOP_CODE) -> dict[str, set[str]]:
 ```
 - It is better to use to use `abc.MutableMapping` or `abc.Mapping` for type hints
     - `dict` is brother of `UserDict`
-- Use `list` for returning and `Iterable` and `Sequence` for paramters
+- Use `list` for returning and `Iterable` and `Sequence` for parameters
 ```python
 from collections.abc import Iterable
 
@@ -68,3 +68,9 @@ def zip_replace(text: str, changes: Iterable[FromTo]) -> str:  # (2)
 
 - `Callable` is used to type callable objects
     - `Callable[[ParamType1, ParamType2], ReturnType]`
+    - Example: [[Strategy using functions]]
+
+### sources
+
+- fluent python - Luciano Ramalho - 2023 - Second Edition - Web Edition
+- [[]]

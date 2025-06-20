@@ -13,6 +13,9 @@
 ['banana', 'apple', 'fig', 'raspberry', 'strawberry', 'cherry']
 ```
 
+- Decorators are functions that accept other functions to be decorated - [[Decorators in python]]
+  - They usually return a different inner function using the argument function
+
 ## Map, filter, and reduce
 
 - They are high order functions
@@ -40,3 +43,8 @@
 >>> sorted(fruits, key=lambda word: word[::-1])
 ['banana', 'apple', 'fig', 'raspberry', 'strawberry', 'cherry']
 ```
+
+### sources
+
+- Fluent Python - Luciano Ramalho - 2023 - Second Edition - Web Edition
+-

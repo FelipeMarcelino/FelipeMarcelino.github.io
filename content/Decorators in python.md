@@ -61,3 +61,4 @@ running f3()
 
 - Usually decorators are implemented in one module and used in another module
 - Usually decorators return and define inner function
+- Using decorators to implement design pattern strategy: [[Strategy using functions]]

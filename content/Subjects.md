@@ -1,0 +1,5 @@
+# Subjects
+#index
+
+- [[Python]]#
+- [[Productivity]]
