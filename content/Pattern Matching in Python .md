@@ -1,10 +1,6 @@
 # Pattern Matching in Python
 #python #code #datastructure
-
-- Pattern matching in python uses `case` and `match`
-- Both `dictionaries`,`tuples` and `sequences` can be used inside match procedures.
-- Pattern matching abuses of technique destructuring
-
+- Pattern matching in python uses `case` and `match` Both `dictionaries`,`tuples` and `sequences` can be used inside match procedures. Pattern matching abuses of technique destructuring
 Using dictionaries:
 ```python
 def get_creators(record: dict) -> list:
@@ -137,3 +133,28 @@ def match_asian_countries_pos():
                 results.append(country)
     return results
 ```
+
+## __match_args__
+
+```python
+def keyword_pattern_demo(v: Vector2d) -> None:
+    match v:
+        case Vector2d(x=0, y=0):
+            print(f'{v!r} is null')
+        case Vector2d(x=0):
+            print(f'{v!r} is vertical')
+        case Vector2d(y=0):
+            print(f'{v!r} is horizontal')
+        case Vector2d(x=x, y=y) if x==y:
+            print(f'{v!r} is diagonal')
+        case _:
+            print(f'{v!r} is awesome')
+
+class Vector2d:
+    __match_args__ = ('x', 'y')
+
+    # etc...
+```
+- `__match_args__` does need to include all the public attributes
+    - Can be reasonable include the required arguments without include the optional ones
+    -

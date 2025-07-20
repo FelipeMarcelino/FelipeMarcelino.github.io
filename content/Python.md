@@ -17,4 +17,4 @@
 - [[Static Protocols]]#
 - [[Scope: global and nonlocal ]]#
 - [[High Order Function in Python ]]#
-- [[Special method __call__]]
+- [[Special method __call__]]#

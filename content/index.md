@@ -12,4 +12,4 @@ Welcome
   languages, productivity, learn second/third language, gym rat, dogs, cats and
   some other things not so important to cite
 - [[About]]#
-- [[Subjects]]
+- [[Subjects]]#

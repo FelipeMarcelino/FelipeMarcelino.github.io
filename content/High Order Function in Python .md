@@ -47,4 +47,3 @@
 ### sources
 
 - Fluent Python - Luciano Ramalho - 2023 - Second Edition - Web Edition
--
