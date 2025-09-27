@@ -25,3 +25,4 @@
 - [[Liskov Substitution]]#
 - [[Special method __format__]]#
 - [[Static duck typing in python]]#
+- [[Python Type Evolution]]#
